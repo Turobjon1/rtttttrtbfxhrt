@@ -1,0 +1,13 @@
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+    
+    align-items: center;
+    height: 100vh;
+}
